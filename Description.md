@@ -90,7 +90,7 @@ We implemented a standalone prediction script where the model can:
 The model training step (#6 in our notebook) was intentionally skipped during the final notebook run to:
 </p>
 <ul>
-  <li>Avoid long training times (takes 40+ minutes depending on hardware)</li>
+  <li>Avoid long training times (takes 2+ hours depending on hardware)</li>
   <li>Prevent showing no output in rendered notebooks since training results were already saved in the model</li>
 </ul>
 <p>
