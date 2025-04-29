@@ -2,6 +2,8 @@
 
 <h1 style="text-align: center;">American Sign Language Detection 🤟</h1>
 
+![Image](https://github.com/user-attachments/assets/e9032e37-e1f0-4ee7-a860-2803dd41dcb1)
+
 <h2>📖 Introduction</h2>
 <p>
 This project focuses on developing an <b>American Sign Language (ASL) Detection System</b> using <b>Convolutional Neural Networks (CNN)</b> with TensorFlow and Keras.<br>
