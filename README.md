@@ -1,6 +1,6 @@
 <div style="background-color: #e6f2ff; padding: 20px; border-radius: 10px;">
 
-<h1 style="text-align: center;">🤟 American Sign Language Detection 🤟</h1>
+<h1 style="text-align: center;">American Sign Language Detection 🤟</h1>
 
 <h2>📖 Introduction</h2>
 <p>
