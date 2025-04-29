@@ -65,6 +65,7 @@ This project serves as a practical learning implementation of <b>deep learning</
 
 <hr>
 
+
 <h2 style="text-align: center;">🚀 Let's decode gestures into language! 🚀</h2>
 
 </div>
