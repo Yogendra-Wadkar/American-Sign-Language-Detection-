@@ -56,7 +56,6 @@ ASL_Detection/
 <pre><code>pip install tensorflow keras opencv-python numpy matplotlib</code></pre>
 
 <hr>
-
 <h2>🙏 Acknowledgement</h2>
 <p>
 Special thanks to <b>Unified Mentor</b> for providing the project guidance and dataset structure.<br>
