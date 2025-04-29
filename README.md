@@ -19,7 +19,7 @@ ASL_Detection/
 │   ├── asl_alphabet_test/    # Testing images (29 sample images)
 │
 ├── asl_model.h5              # Trained CNN model file
-├── ASL_Detection_Notebook.ipynb  # Jupyter Notebook (full code)
+├── ASL_Detection.ipynb  # Jupyter Notebook (full code)
 ├── README.md                 # Project introductory file
 </pre>
 
